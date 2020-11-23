@@ -13,9 +13,9 @@
     "include_dirs": [
       "xlsxio/include",
       "xlsxio/lib",
-      "cpp/third-party/zlib-gyp/contrib/minizip",
-      "cpp/third-party/zlib-gyp/contrib",
-      "cpp/third-party/libexpat",
+      "third-party/zlib-gyp/contrib/minizip",
+      "third-party/zlib-gyp/contrib",
+      "third-party/libexpat",
       "<!(node -p \"require('node-addon-api').include_dir\")",
     ],    
     "dependencies": [
