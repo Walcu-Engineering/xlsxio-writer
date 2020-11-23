@@ -1,11 +1,11 @@
 {
   "name": "xlsxio-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "node-gyp rebuild"
+    "install": "echo Installing && node-gyp rebuild"
   },
   "author": "",
   "license": "ISC",
