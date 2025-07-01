@@ -1,5 +1,5 @@
 {
-  "name": "@walcu-engineering/xlsxio-node",
+  "name": "@walcu-engineering/xlsxio-writer",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
