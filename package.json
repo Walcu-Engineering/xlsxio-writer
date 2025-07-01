@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install": "echo Installing && node-gyp rebuild"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Walcu-Engineering/xlsxio-writer.git"
+  },
   "author": "",
   "license": "ISC",
   "gypfile": true,
